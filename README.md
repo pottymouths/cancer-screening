@@ -1,7 +1,10 @@
 # Smart Screening: Predicting Cancer Risk from Stool with Machine Learning
 
-Team Potty Mouths presents 
-This GitHub repository is for a group project for BDA 602: Machine Learning Engineering, a course part of the M.S. program in Big Data Analytics at SDSU. It contains the code used to create several machine learning models, data samples, and notebook outputs.
+Team Potty Mouths presents Smart Screening: Predicting Cancer Risk from Stool with Machine Learning, a project for BDA 602: Machine Learning Engineering, a course part of the M.S. program in Big Data Analytics at SDSU.
+
+This GitHub repository contains the code used in this study, data samples for the model training, as well as notebook outputs highlighting results.
+
+## Abstract
 
 Colorectal cancer (CRC) represents the second most common cause of non-gender-related cancer deaths, and accounted for nearly 12% of all cancer treatment costs in the United States in
 2020. This risk (and treatment cost) significantly decreases with early intervention strategies like
